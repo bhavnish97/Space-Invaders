@@ -173,6 +173,3 @@ while True:
 	if bullet.ycor()>275:
 		bullet.hideturtle()
 		bulletstate="ready"
-
-
-delay=raw_input("enter to exit")
