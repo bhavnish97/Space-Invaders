@@ -52,7 +52,7 @@ enemies=[]
 for i in range(number_of_enemies):
 	enemies.append(turtle.Turtle()) 
 for enemy in enemies:
-	enemy.color("red")
+	enemy.color("green")
 	enemy.shape("circle")
 	enemy.penup()
 	enemy.speed(0)
